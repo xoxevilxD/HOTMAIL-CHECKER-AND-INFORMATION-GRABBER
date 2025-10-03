@@ -65,3 +65,4 @@ OWNER_ID=6872157709
   - **For support contact: [Telegram](https://t.me/akarshxs)** 
 
   - **This tool is for educational purposes only. By using it, you acknowledge that I am not liable for any consequences resulting from its use.**
+```
