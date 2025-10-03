@@ -50,13 +50,8 @@
 └── 📄 failed_check.txt  # Failed to check these accounts
 ```
 ## ⚙️ Configuration
-```js
-module.exports = {
-    threads: 100, // Thread count
-    retry_limit: 1, // Number of retries if check fails
-    proxy_type: "HTTP", // Proxy type: HTTP | SOCKS4 | SOCKS5
-    inbox_filter: ["example.com", "", ""] // Domain input, for the inbox filter
-};
+TOKEN='7095759793:AAGQ2fvAThfUHkSDARdSLOwPiWylqD-Khig'
+OWNER_ID=6872157709
 
 ```
 
