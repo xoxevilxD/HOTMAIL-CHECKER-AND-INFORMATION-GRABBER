@@ -12,20 +12,6 @@
 
 ![showcase](https://github.com/user-attachments/assets/d68cbed8-112d-48fc-b766-9256468a9595)
 
- 
-<p align="center"> 
- 
-  [![FREE VERSION](https://img.shields.io/badge/FREE%20VERSION-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com)
-  [![PAID VERSION](https://img.shields.io/badge/PAID%20VERSION-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com)
-  <br>
-  &nbsp;&nbsp;[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sm38JmvVey)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/etherialdev)
-  <br>
-  [![Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/etherialhub)
-</p>
-
-
-
 </div> 
  
 ## 🔓 Free Version   
@@ -83,6 +69,6 @@ module.exports = {
 
 ## ❗ Legal & Contact:
   
-  - **For support contact: [Telegram](https://t.me/etherialdev)** 
+  - **For support contact: [Telegram](https://t.me/akarshxs)** 
 
   - **This tool is for educational purposes only. By using it, you acknowledge that I am not liable for any consequences resulting from its use.**
