@@ -50,6 +50,7 @@
 └── 📄 failed_check.txt  # Failed to check these accounts
 ```
 ## ⚙️ Configuration
+```
 TOKEN='7095759793:AAGQ2fvAThfUHkSDARdSLOwPiWylqD-Khig'
 OWNER_ID=6872157709
 
